@@ -33,7 +33,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 <div align="center">
-<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/aryan-011/aryan-011/blob/master/gifs/Handshake.gif" height="33px" /></h3>
+<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/aryan-011/aryan-011/blob/main/Handshake.gif" height="33px" /></h3>
 <center>
 <a href="https://twitter.com/aryan01109"><img src="https://img.icons8.com/fluent/50/000000/twitter.png"></a>
 </center> 
