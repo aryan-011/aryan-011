@@ -1,4 +1,5 @@
-### Hi there 👋
+###         Hi there 👋 I am Aryan Gupta
+###     Frontend Developer pursuing Btech at LNMIIT
 
 <!--
 **aryan-011/aryan-011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
