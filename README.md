@@ -4,7 +4,7 @@
 <h3 align='center'>Frontend Developer pursuing Btech at LNMIIT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&width=700&height=80&lines=I+am+a+Student%2C+Developer%2C+Coder+and+Love+to+Connect+With+Peoples+%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&width=520&height=80&lines=I+am+a+Student%2C+Developer%2C+Coder+and+Much+More+%E2%9D%A4%EF%B8%8F">
 </p>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -33,7 +33,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 <div align="center">
-<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h3>
+<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/aryan-011/aryan-011/blob/master/gifs/Handshake.gif" height="33px" /></h3>
 <center>
 <a href="https://twitter.com/aryan01109"><img src="https://img.icons8.com/fluent/50/000000/twitter.png"></a>
 </center> 
@@ -46,8 +46,9 @@
 </center>
 <br>
 <br>
-### 🙏 Namaste
+<div align='left'>
 
+### 🙏 Namaste
 ### About 🙋🏻‍♂️
 ```python
 Name = "Aryan"
@@ -61,21 +62,22 @@ Country = "🇮🇳"
 - 👯 I’m Looking To Collaborate On Projects
 - 💬 Ask me about Web Dev/Python/React
 - 🌱 I’m currently learning Three.js ,Node.js,Express.js
-
-<details>
+<h2 align='left'>My GitHub Stats and Streaks💛</h2>
+<details align='left'>
 <summary>Click Here❤️</summary>
 <br>
     
-![CyberBoyAyush Git Stats](https://github-readme-stats.vercel.app/api?username=aryan-011&include_all_commits=true&count_private=true&theme=highcontrast)
+![aryan-011 Git Stats](https://github-readme-stats.vercel.app/api?username=aryan-011&include_all_commits=true&count_private=true&theme=highcontrast)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-011&theme=chartreuse-dark&hide_border=True" alt="Cyberboyayush" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-011&theme=chartreuse-dark&hide_border=True" alt="aryan-011" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-011&layout=compact&theme=radical)](https://github.com/CyberBoyAyush)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-011&layout=compact&theme=radical)](https://github.com/aryan-011)
 
 
 </details>
 
-### Languages and Tools I Use And Love❤️
+## Languages and Tools I Use And Love❤️
+</div>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -86,7 +88,6 @@ Country = "🇮🇳"
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-%2314854C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 <div align='right' >
 <picture >
