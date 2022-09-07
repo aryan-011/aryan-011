@@ -35,14 +35,14 @@
 <div align="center">
 <h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/aryan-011/aryan-011/blob/main/Handshake.gif" height="33px" /></h3>
 <center>
-<a href="https://twitter.com/aryan01109" target='_blank'><img src="https://img.icons8.com/fluent/50/000000/twitter.png"></a>
+<a href="https://twitter.com/aryan01109" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/twitter.png"></a>
 </center> 
 <center>
-<a href="mailto:guptaaryan380@gmail.com" target='_blank'><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
+<a href="mailto:guptaaryan380@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
 </center>
 
 <center>
-<a href="https://www.linkedin.com/in/aryan-gupta-638586229" target='_blank'><img src="https://img.icons8.com/fluent/50/000000/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/aryan-gupta-638586229" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png"></a>
 </center>
 <br>
 <br>
