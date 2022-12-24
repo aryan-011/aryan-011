@@ -43,6 +43,8 @@
 
 <center>
 <a href="https://www.linkedin.com/in/aryan-gupta-638586229" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png"></a>
+    <a href='https://ghost-card-aryan.netlify.app/' target='_blank'> GHostCard </a>
+  <a href='https://medicalumbrella.netlify.app/' target='_blank'> Medical health Website </a>
 </center>
 <br>
 <br>
@@ -67,8 +69,7 @@ Country = "🇮🇳"
 <h2 align='left'>My GitHub Stats and Streaks💛</h2>
 <details align='left'>
   
-  <div href='https://ghost-card-aryan.netlify.app/'> GHostCard </div>
-  <div href='https://medicalumbrella.netlify.app/'> Medical health Website </div>
+
 <summary>Click Here❤️</summary>
 <br>
     
