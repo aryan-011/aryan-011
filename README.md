@@ -66,6 +66,9 @@ Country = "🇮🇳"
 
 <h2 align='left'>My GitHub Stats and Streaks💛</h2>
 <details align='left'>
+  
+  <div href='https://ghost-card-aryan.netlify.app/'> GHostCard </div>
+  <div href='https://medicalumbrella.netlify.app/'> Medical health Website </div>
 <summary>Click Here❤️</summary>
 <br>
     
