@@ -50,8 +50,8 @@
 <div align='left'>
 
 ### MY WORKS
-     <a href='https://ghost-card-aryan.netlify.app/' target='_blank'> GHostCard </a>
-  <a href='https://medicalumbrella.netlify.app/' target='_blank'> Medical health Website </a>
+<a href='https://ghost-card-aryan.netlify.app/' target='_blank'> GHostCard </a>
+<a href='https://medicalumbrella.netlify.app/' target='_blank'> Medical health Website </a>
 ### About 🙋🏻‍♂️
 ```python
 Name = "Aryan"
