@@ -43,14 +43,15 @@
 
 <center>
 <a href="https://www.linkedin.com/in/aryan-gupta-638586229" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png"></a>
-    <a href='https://ghost-card-aryan.netlify.app/' target='_blank'> GHostCard </a>
-  <a href='https://medicalumbrella.netlify.app/' target='_blank'> Medical health Website </a>
+   
 </center>
 <br>
 <br>
 <div align='left'>
 
-### 🙏 Namaste
+### MY WORKS
+     <a href='https://ghost-card-aryan.netlify.app/' target='_blank'> GHostCard </a>
+  <a href='https://medicalumbrella.netlify.app/' target='_blank'> Medical health Website </a>
 ### About 🙋🏻‍♂️
 ```python
 Name = "Aryan"
