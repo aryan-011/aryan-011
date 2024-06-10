@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>Hi there 👋 I am Aryan Gupta</h1>         
-<h3 align='center'>Frontend Developer pursuing Btech at LNMIIT</h3>
+<h3 align='center'>Undergraduate at LNMIIT</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&random=true&width=435&lines=I+am+a+Engineer...;+Who+loves+to+take+on+Challenges..." alt="Typing SVG" /></a>
@@ -50,7 +50,7 @@
 <div align='left'>
 
 ### MY WORKS
-<a href='https://ghost-card-aryan.netlify.app/](https://github.com/aryan-011/hydrogen-compiler' target='_blank'> Hydrogen Compiler </a> <span> A compiler written in cpp </span>
+<a href='https://github.com/aryan-011/hydrogen-compiler' target='_blank'> Hydrogen Compiler : a compiler written in cpp</a> 
 <br>
 <a href='https://isdl-lh-management.vercel.app/login' target='_blank'> Lecture Hall Booking </a> 
 
