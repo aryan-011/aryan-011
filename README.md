@@ -4,7 +4,7 @@
 <h3 align='center'>Frontend Developer pursuing Btech at LNMIIT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&width=520&height=80&lines=I+am+a+Student%2C+Developer%2C+Coder+and+Much+More+%E2%9D%A4%EF%B8%8F">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&random=true&width=435&lines=I+am+a+Engineer...;+Who+loves+to+take+on+Challenges..." alt="Typing SVG" /></a>
 </p>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -50,9 +50,10 @@
 <div align='left'>
 
 ### MY WORKS
-<a href='https://ghost-card-aryan.netlify.app/' target='_blank'> GHostCard </a>
+<a href='https://ghost-card-aryan.netlify.app/](https://github.com/aryan-011/hydrogen-compiler' target='_blank'> Hydrogen Compiler </a> <span> A compiler written in cpp </span>
 <br>
-<a href='https://medicalumbrella.netlify.app/' target='_blank'> Medical health Website </a>
+<a href='https://isdl-lh-management.vercel.app/login' target='_blank'> Lecture Hall Booking </a> 
+
 ### About 🙋🏻‍♂️
 ```python
 Name = "Aryan"
