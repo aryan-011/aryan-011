@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>Hi there 👋 I am Aryan Gupta</h1>         
-<h3 align='center'>Undergraduate at LNMIIT</h3>
+<h3 align='center'>Final year at LNMIIT</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&random=true&width=435&lines=I+am+a+Engineer...;+Who+loves+to+take+on+Challenges..." alt="Typing SVG" /></a>
